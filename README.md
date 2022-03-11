@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitishkumar J G</h1>
 <h3 align="center">Competitive Programmer | Open Source Enthusiast</h3>
 
-- 📫 How to reach me **nitishkumarj.g07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
